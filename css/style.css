@@ -43,6 +43,9 @@
   list-style: none;
   margin: 0px 10px;
 }
+.header_nav-item-link{
+  text-decoration: none;
+}
 
 /* main */
 .main{
@@ -247,6 +250,8 @@
   background-color: rgb(241, 241, 241);
   position: absolute;
   top: 95%;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
 }
 .blog-wrap_item-content-ttl{
   color: rgb(126, 126, 126);
